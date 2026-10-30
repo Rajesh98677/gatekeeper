@@ -1,0 +1,14 @@
+# Maven
+**/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Environment and secrets
+.env
+.env.*
+**/application-local.properties
+
+# Logs
+*.log
