@@ -1,4 +1,4 @@
-package com.rajesh.gatekeeper.management.dto;
+package com.rajesh.gatekeeper.management.dto.responseDTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
